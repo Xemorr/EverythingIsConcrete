@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2b8f0b1-b0bd-4d09-b27f-24d4989bdf72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="tbnhmehe" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="1dmm31jxgmyl6XFnLnLpq2JZa89" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Holder/1.15.2 test server/paper-350.jar" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="JAR Application.Unnamed">
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="D:/Holder/1.15.2 test server/paper-350.jar" />
+      <option name="WORKING_DIRECTORY" value="D:\Holder\1.15.2 test server" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PolishEverything build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="Maven.PolishEverything build" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2b8f0b1-b0bd-4d09-b27f-24d4989bdf72" name="Default Changelist" comment="" />
+      <created>1593038439995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593038439995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593038808565">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593038808565" />
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1593040193747">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593040193747" />
+    <state x="808" y="428" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1593038444297">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="808" y="428" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593038444297" />
+    <state x="799" y="316" key="FileChooserDialogImpl" timestamp="1593109566211">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="799" y="316" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593109566211" />
+    <state width="914" height="363" key="GridCell.Tab.0.bottom" timestamp="1593109597847">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593109597847" />
+    <state width="914" height="363" key="GridCell.Tab.0.center" timestamp="1593109597846">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593109597846" />
+    <state width="914" height="363" key="GridCell.Tab.0.left" timestamp="1593109597846">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593109597846" />
+    <state width="914" height="363" key="GridCell.Tab.0.right" timestamp="1593109597847">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593109597847" />
+    <state width="914" height="363" key="GridCell.Tab.1.bottom" timestamp="1593109597847">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593109597847" />
+    <state width="914" height="363" key="GridCell.Tab.1.center" timestamp="1593109597847">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593109597847" />
+    <state width="914" height="363" key="GridCell.Tab.1.left" timestamp="1593109597847">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593109597847" />
+    <state width="914" height="363" key="GridCell.Tab.1.right" timestamp="1593109597847">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593109597847" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1593038783071">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1593038783071" />
+    <state x="335" y="301" key="new project wizard" timestamp="1593109596492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="335" y="301" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1593109596492" />
+    <state x="143" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1593040375296">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="143" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593040375296" />
+  </component>
+</project>

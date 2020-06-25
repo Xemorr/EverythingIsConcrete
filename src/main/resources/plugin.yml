@@ -1,0 +1,7 @@
+name: PolishEverything
+version: ${project.version}
+main: me.xemor.polisheverything.PolishEverything
+api-version: 1.13
+load: STARTUP
+authors: [Xemor_]
+description: I made the entire world "polished"
